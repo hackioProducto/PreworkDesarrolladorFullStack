@@ -30,9 +30,9 @@
 
 ## 🛠️ Visual Studio Code
 
-- [Instalación de Visual Studio Code](Project0/Contenido/Python/README.md)
-- [Guía del IDE](Project0/Contenido/SQL/README.md)
-- [Extensiones y puesta a punto](Project0/Contenido/Excel/README.md)
+- [Instalación de Visual Studio Code](Project0/Visual_Studio_Code/instalacion_de_visual_studio_code.md)
+- [Guía del IDE](Project0/Visual_Studio_Code/guia_del_IDE.md)
+- [Extensiones y puesta a punto](Project0/Visual_Studio_Code/extensiones_y_puesta_a_punto.md)
 
 ## 🟧 HTML5
 
