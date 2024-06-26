@@ -9,9 +9,11 @@
 
 ## 🛠️ Instalaciones
 
-- [Setup](Project0/PuestaPunto/Homebrew/homebrew.md)
-- [GitHub Account](Project0/PuestaPunto/VSC/VSC.md)
-- [Uso básico Git](Project0/PuestaPunto/Terminal/terminal.md)
+- [Setup](Project0/Instalaciones/setup.md)
+- [GitHub Account](Project0/Instalaciones/github_account.md)
+- [Uso básico de Git](Project0/Instalaciones/uso_basico_de_git.md)
+- [Node.js](Project0/Instalaciones/node.md)
+- [Terminales externas](Project0/Instalaciones/terminales_externas.md)
 
 ## 💾 Terminal | Git
 
