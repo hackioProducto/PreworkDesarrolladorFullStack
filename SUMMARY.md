@@ -17,16 +17,16 @@
 
 ## 💾 Terminal | Git
 
-- [Moverse entre directorios](Project0/Contenido/Python/README.md)
-- [Creación de carpetas y ficheros](Project0/Contenido/SQL/README.md)
-- [Eliminación de carpetas y ficheros](Project0/Contenido/Excel/README.md)
-- [Modificación de carpetas y ficheros](Project0/Contenido/Cheatsheets/README.md)
-- [Crear repositorio](Project0/Contenido/Cheatsheets/README.md)
-- [Modificar repositorio](Project0/Contenido/Cheatsheets/README.md)
-- [Eliminar repositorio](Project0/Contenido/Cheatsheets/README.md)
-- [Crear ramas](Project0/Contenido/Cheatsheets/README.md)
-- [Moverse entre ramas](Project0/Contenido/Cheatsheets/README.md)
-- [Mergear ramas & Pull Requests](Project0/Contenido/Cheatsheets/README.md)
+- [Moverse entre directorios](Project0/Terminal_Git/moverse_entre_directorios.md)
+- [Creación de carpetas y ficheros](Project0/Terminal_Git/creacion_carpetas_y_ficheros.md)
+- [Eliminación de carpetas y ficheros](Project0/Terminal_Git/eliminación_carpetas_y_ficheros.md)
+- [Modificación de carpetas y ficheros](Project0/Terminal_Git/modificacion_carpetas_y_ficheros.md)
+- [Crear repositorio](Project0/Terminal_Git/crear_repositorio.md)
+- [Modificar repositorio](Project0/Terminal_Git/modificar_repositorio.md)
+- [Eliminar repositorio](Project0/Terminal_Git/eliminar_repositorio.md)
+- [Crear ramas](Project0/Terminal_Git/crear_ramas.md)
+- [Moverse entre ramas](Project0/Terminal_Git/moverse_entre_ramas.md)
+- [Mergear ramas & pull requests](Project0/Terminal_Git/mergear_ramas_y_pull_requests.md)
 
 ## 🛠️ Visual Studio Code
 
