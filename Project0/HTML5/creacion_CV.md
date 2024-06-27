@@ -6,11 +6,11 @@
 
 A continuación te facilitamos una guía para crear un CV completo utilizando HTML5, asegurando el uso adecuado de las etiquetas y atributos esenciales para mejorar la accesibilidad y el SEO.
 
-## Paso 1: Estructura Básica del Documento HTML
+## Paso 1: Estructura básica del documento HTML
 
 ---
 
-El Objetivo es establecer la estructura básica del documento HTML, incluyendo la declaración `<!DOCTYPE html>`, y las secciones `<html>`, `<head>`, y `<body>`.
+El objetivo es establecer la estructura básica del documento HTML, incluyendo la declaración `<!DOCTYPE html>`, y las secciones `<html>`, `<head>`, y `<body>`.
 
 ### 
 
@@ -37,7 +37,7 @@ El Objetivo es establecer la estructura básica del documento HTML, incluyendo l
 
 ---
 
-El Objetivo es añadir una cabecera que incluya el nombre, una foto y un resumen profesional.
+El objetivo es añadir una cabecera que incluya el nombre, una foto y un resumen profesional.
 
 ```html
 <body>
@@ -50,7 +50,7 @@ El Objetivo es añadir una cabecera que incluya el nombre, una foto y un resumen
 </body>
 ```
 
-## Paso 3: Sección de Información Personal
+## Paso 3: Sección de información personal
 
 ---
 
@@ -81,7 +81,7 @@ El objetivo es añadir una sección que contenga la información personal releva
 </body>
 ```
 
-## Paso 4: Sección de Educación
+## Paso 4: sección de educación
 
 ---
 
@@ -133,7 +133,7 @@ Incluimos una sección que describa la educación del candidato, utilizando etiq
 </body>
 ```
 
-## Paso 5: Sección de Experiencia Profesional
+## Paso 5: sección de experiencia profesional
 
 ---
 
@@ -200,7 +200,7 @@ Añadimos una sección para detallar la experiencia profesional del candidato, i
 </body>
 ```
 
-## Paso 6: Sección de Habilidades
+## Paso 6: sección de habilidades
 
 ---
 
@@ -276,7 +276,7 @@ Añadimos una sección para destacar las habilidades y competencias del candidat
 </body>
 ```
 
-## Paso 7: Sección de Proyectos
+## Paso 7: sección de proyectos
 
 ---
 
@@ -375,32 +375,32 @@ Incluimos una sección para detallar los proyectos destacados en los que ha trab
 </body>
 ```
 
-## Paso 8: Optimización del Rendimiento
+## Paso 8: optimización del rendimiento
 
 ---
 
 Implementamos técnicas para optimizar el rendimiento del CV, incluyendo compresión de archivos y uso de la caché del navegador.
 
-Compresión de Archivos
+Compresión de archivos
 
 ```html
 <link rel="stylesheet" href="styles.min.css">
 ```
 
-Uso de la Caché del Navegador
+Uso de la caché del navegador
 
 ```html
 <meta http-equiv="Cache-Control" content="max-age=604800">
 <link rel="stylesheet" type="text/css" href="styles.css?v=1">
 ```
 
-**Reducción de Solicitudes HTTP:** Combina múltiples archivos CSS en uno solo.
+**Reducción de solicitudes HTTP:** Combina múltiples archivos CSS en uno solo.
 
 ```html
 <link rel="stylesheet" href="combined.min.css">
 ```
 
-## Ejemplo Completo de un CV en HTML5
+## Ejemplo completo de un CV en HTML5
 
 ---
 
@@ -511,7 +511,7 @@ Uso de la Caché del Navegador
 </html>
 ```
 
-## CSS Asociado
+## CSS asociado
 
 ---
 
