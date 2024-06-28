@@ -79,9 +79,9 @@
 - [Estructura tipo de un fichero CSS con variables y composición por bloques](Project0/CSS3/estructura.md)
 - [Display: Flex](Project0/CSS3/flex.md)
 - [Display: Flex - Diseño básico de Cards](Project0/CSS3/diseño_cartas.md)
-- [Display: Flex - Contenido asociado](Project0/Contenido/Excel/README.md)
-- [Display: Grid](Project0/Contenido/Excel/README.md)
+- [Display: Flex - Contenido asociado](Project0/CSS3/flex_asociado.md)
+- [Display: Grid](Project0/CSS3/grid.md)
 
 ## 💻 Project 0
 
-- [Project 0 - HTML + CSS](Project0/Contenido/Excel/README.md)
+- [Project 0 - HTML + CSS](Project0/Project_0_HTML_CSS/project0.md)

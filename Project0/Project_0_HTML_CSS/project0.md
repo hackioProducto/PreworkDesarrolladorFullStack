@@ -15,6 +15,7 @@ Esta práctica consiste en replicar con HTML y CSS la web de la banda “Dayseek
 - Todo el contenido debe de ser visual, no hay enlaces a otras páginas ni los botones son funcionales, aunque se pueden implementar animaciones similares a las de la web.
 - La imagen del album en la parte superior tiene una animación de inicio.
 - Encontrarás todos los recursos en los contenidos asociados.
+- Recuerda que la entrega se realizará mediante la plataforma online.
 
 ![Untitled](./Imagenes/project0_1.png)
 ![Untitled](./Imagenes/project0_1.webp)
