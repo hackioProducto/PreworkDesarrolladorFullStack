@@ -77,8 +77,8 @@
 - [MediasQueries](Project0/CSS3/mediaqueries.md)
 - [Variables](Project0/CSS3/variables.md)
 - [Estructura tipo de un fichero CSS con variables y composición por bloques](Project0/CSS3/estructura.md)
-// - [Display: Flex](Project0/Contenido/Excel/README.md)
-- [Display: Flex - Diseño básico de Cards](Project0/Contenido/Excel/README.md)
+- [Display: Flex](Project0/CSS3/flex.md)
+- [Display: Flex - Diseño básico de Cards](Project0/CSS3/diseño_cartas.md)
 - [Display: Flex - Contenido asociado](Project0/Contenido/Excel/README.md)
 - [Display: Grid](Project0/Contenido/Excel/README.md)
 
